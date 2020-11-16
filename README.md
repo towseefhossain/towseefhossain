@@ -14,8 +14,8 @@
 
 ### I am M Towseef Hossain
 - My pronouns are he/they.
-- I'm a Front-End Enthusiast.
-- A Mathematics major at the University of Waterloo. 
+- I'm a Front-End and Mobile Development Enthusiast.
+- A Mathematics (possibly Combinatorics and Optimization???) major at the University of Waterloo. 
 - Former intern at @intuit, Future intern at @Fundthrough.
 - Massive DnD, Mechanical Keyboards and PC Building nerd.
 - Always looking for opportunities.
