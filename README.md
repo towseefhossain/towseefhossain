@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 ### I am M Towseef Hossain
-- My pronouns are he/they.
+- My pronouns are he/him/they.
 - I'm a Front-End and Mobile Development Enthusiast.
 - A Mathematics (possibly Combinatorics and Optimization???) major at the University of Waterloo. 
 - Former intern at @intuit, Future intern at @Fundthrough.
